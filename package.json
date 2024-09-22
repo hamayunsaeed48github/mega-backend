@@ -1,0 +1,15 @@
+{
+  "name": "lecture-7",
+  "version": "1.0.0",
+  "description": "mega project start",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascrip",
+    "backend"
+  ],
+  "author": "Hamayun Saeed",
+  "license": "ISC"
+}
