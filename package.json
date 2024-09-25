@@ -2,11 +2,11 @@
   "name": "lecture-7",
   "version": "1.0.0",
   "description": "mega project start",
-  "type":"module",
+  "type": "module",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "dev":"nodemon src/index.js"
+    "dev": "nodemon src/index.js"
   },
   "keywords": [
     "javascrip",
@@ -15,6 +15,10 @@
   "author": "Hamayun Saeed",
   "license": "ISC",
   "devDependencies": {
-    "nodemon": "^3.1.7"
+    "nodemon": "^3.1.7",
+    "prettier": "^3.3.3"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.5"
   }
 }
